@@ -1,0 +1,4 @@
+quandl==3.2.0
+pandas==0.20.2
+scikit-learn==0.18.2
+matplotlib==2.0.2
